@@ -1,2 +1,5 @@
 # enpitproemb2
-演習6用
+
+- This is a readme file.
+- add the seconda line
+- 
