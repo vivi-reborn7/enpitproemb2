@@ -1,5 +1,6 @@
 # enpitproemb2
 
 - This is a readme file.
-- add the seconda line
+- add the second line
+- this is a conflict
 - example for a conflict
